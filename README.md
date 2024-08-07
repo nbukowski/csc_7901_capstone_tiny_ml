@@ -1,1 +1,1 @@
-# csc_7901_capstone_tiny_ml
+# CSC 7901 Capstone Tiny ML
